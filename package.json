@@ -1,6 +1,6 @@
 {
   "name": "rehype-code-copy",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "rehype-code-copy",
   "main": "src/index.js",
   "author": {
