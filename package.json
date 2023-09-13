@@ -5,7 +5,7 @@
   "main": "src/index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:benjamin-chavez/rehype-code-copy.git"
+    "url": "git+https://github.com/benjamin-chavez/rehype-code-copy.git"
   },
   "bugs": {
     "url": "https://github.com/benjamin-chavez/rehype-code-copy/issues"
