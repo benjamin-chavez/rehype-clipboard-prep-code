@@ -11,9 +11,6 @@
     "type": "git",
     "url": "git+https://github.com/benjamin-chavez/rehype-code-copy.git"
   },
-  "publishConfig": {
-    "registry": "https://www.npmjs.com/~bmchavez"
-  },
   "bugs": {
     "url": "https://github.com/benjamin-chavez/rehype-code-copy/issues"
   },
