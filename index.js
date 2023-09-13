@@ -4,6 +4,6 @@
  */
 
 export {
-  attachMetadataProperties,
-  attachRawStringToCodeContainers
-} from './lib/index.js'
+	attachMetadataProperties,
+	attachRawStringToCodeContainers,
+} from './lib/index.js';
