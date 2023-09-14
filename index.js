@@ -4,6 +4,6 @@
  */
 
 export {
-  rehypeEnrichCodeContainerMetadata,
-  rehypeAttachRawStringsToCodeContainer,
+	rehypeEnrichCodeContainerMetadata,
+	rehypeAttachRawStringsToCodeContainer,
 } from './lib/index.js';
