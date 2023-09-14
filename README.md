@@ -13,7 +13,6 @@ The following is a sample configuration illustrating how you might set up your c
 
 ```typescript
 import { defineDocumentType, makeSource } from 'contentlayer/source-files';
-import remarkGfm from 'remark-gfm';
 import rehypePrettyCode from 'rehype-pretty-code';
 import remarkCodeTitles from 'remark-flexible-code-titles';
 import {
@@ -56,9 +55,10 @@ export default makeSource({
 
 
 - **MDX Configuration**: The MDX setup incorporates various plugins to refine the handling of markdown and HTML transformations:
-  - `remark-flexible-code-titles` (a required plugin) enables flexible naming for code blocks.
-  - `rehype-clipboard-prep-code` itself is integrated to attach raw code strings to their respective containers, paving the way for easy copying.
-  - `rehypePrettyCode`, for code styling and beautification.
+  - [`remark-flexible-code-titles`](https://github.com/ipikuka/remark-flexible-code-titles) (a required plugin) enables flexible naming for code blocks.
+  - [`rehypePrettyCode`](https://github.com/atomiks/rehype-pretty-code), for code styling and beautification.
+  - [Content Layer](https://contentlayer.dev/) is the framework for which these plugins are integrated.
+
 
 ## Prerequisites
 
