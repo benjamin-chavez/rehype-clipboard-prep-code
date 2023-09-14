@@ -1,6 +1,9 @@
 
 # rehype-clipboard-prep-code
 
+[![npm version](https://badge.fury.io/js/rehype-clipboard-prep-code.svg)](https://www.npmjs.com/package/rehype-clipboard-prep-code)
+
+
 **[rehype](https://github.com/rehypejs/rehype)** plugin designed to facilitate the attachment of raw code strings to a server-side parent container elements, allowing users to easily copy the entire code snippet to their clipboard.
 
 ## Primary Use Case
