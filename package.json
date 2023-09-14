@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/benjamin-chavez/rehype-code-copy.git"
+    "url": "git+https://github.com/benjamin-chavez/rehype-clipboard-prep-code.git"
   },
   "bugs": {
-    "url": "https://github.com/benjamin-chavez/rehype-code-copy/issues"
+    "url": "https://github.com/benjamin-chavez/rehype-clipboard-prep-code/issues"
   },
-  "homepage": "https://github.com/benjamin-chavez/rehype-code-copy#readme",
+  "homepage": "https://github.com/benjamin-chavez/rehype-clipboard-prep-code#readme",
   "sideEffects": false,
   "type": "module",
   "exports": "./index.js",
