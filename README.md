@@ -60,7 +60,7 @@ export default makeSource({
 - **MDX Configuration**: The MDX setup incorporates various plugins to refine the handling of markdown and HTML transformations:
   - [`remark-flexible-code-titles`](https://github.com/ipikuka/remark-flexible-code-titles) (a required plugin) enables flexible naming for code blocks.
   - [`rehypePrettyCode`](https://github.com/atomiks/rehype-pretty-code), for code styling and beautification.
-  - [Content Layer](https://contentlayer.dev/) is the framework for which these plugins are integrated.
+  - [`Content Layer`](https://contentlayer.dev/) is the framework for which these plugins are integrated.
 
 
 ## Prerequisites
