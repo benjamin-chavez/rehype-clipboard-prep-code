@@ -1,6 +1,6 @@
 {
   "name": "rehype-clipboard-prep-code",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "rehype-clipboard-prep-code",
   "main": "src/index.js",
   "author": {
