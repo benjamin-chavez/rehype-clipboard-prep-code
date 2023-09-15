@@ -74,6 +74,35 @@ export default makeSource({
   - [`Content Layer`](https://contentlayer.dev/) is the framework for which these plugins are integrated.
 
 
+ ## Example MDX with Rendered Output:
+
+  1. Example with a title:
+  ```
+    ```ts:state.ts
+    export interface State {
+    // Define your shared state structure here
+    }
+    ```
+  ```
+
+  <p align="center">
+    <img src="assets/rendered-example-with-title.png" alt="Demo GIF">
+  </p>
+
+  2. Example without titles:
+  ```
+    ```ts
+    export interface State {
+    // Define your shared state structure here
+    }
+    ```
+  ```
+
+  <p align="center">
+    <img src="assets/rendered-example-without-title.png" alt="Demo GIF">
+  </p>
+
+
 ## Prerequisites
 
 - Ensure you have `remark-flexible-code-titles` installed and configured as it is a necessary dependency for this package to function effectively.
