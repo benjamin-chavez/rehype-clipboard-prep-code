@@ -79,9 +79,16 @@ export default makeSource({
 - Ensure you have `remark-flexible-code-titles` installed and configured as it is a necessary dependency for this package to function effectively.
 
 
+## Live Examples:
+
+- [ctrl-f-plus-website
+/contentlayer.config.js](https://github.com/ctrl-f-plus/ctrl-f-plus-website/blob/master/contentlayer.config.js)
+- [benjamin-chavez.com/contentlayer.config.js](https://github.com/benjamin-chavez/benjamin-chavez.com/blob/master/contentlayer.config.js)
+
 ## Contributing
 
 We welcome contributions! If you find an issue or have a feature request, feel free to open an issue or submit a pull request.
+
 
 ## License
 
