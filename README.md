@@ -85,4 +85,4 @@ We welcome contributions! If you find an issue or have a feature request, feel f
 
 ## License
 
-MIT
+[MIT](https://github.com/benjamin-chavez/rehype-clipboard-prep-code/blob/master/LICENSE)
