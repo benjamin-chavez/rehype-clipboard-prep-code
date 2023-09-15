@@ -3,3 +3,4 @@
     "test-coverage": "c8 --100 --check-coverage --reporter lcov npm run test-api"
 
 
+Review guidlines again: https://github.com/rehypejs/rehype/blob/main/doc/plugins.md#list-of-plugins
