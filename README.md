@@ -103,6 +103,33 @@ export default makeSource({
   </p>
 
 
+## Options:
+
+  Example usage with custom `Title` MDX component. This defaults to `CodeBlockTitle`.
+ ```js
+ remarkPlugins: [
+      [
+        remarkCodeTitles,
+        {
+          titleTagName: 'CodeBlockTitle',
+          titleClassName: 'custom-code-title',
+          titleProperties: (language, title) => ({
+            ['data-language']: language,
+            title,
+          }),
+        },
+      ],
+    ],
+    rehypePlugins: [
+      [
+        rehypeEnrichCodeContainerMetadata,
+        {
+          codeBlockTitle: 'Title',
+        },
+      ],
+    ]
+ ```
+
 ## Prerequisites
 
 - Ensure you have `remark-flexible-code-titles` installed and configured as it is a necessary dependency for this package to function effectively.
