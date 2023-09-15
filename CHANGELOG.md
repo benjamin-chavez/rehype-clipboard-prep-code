@@ -1,5 +1,11 @@
 # rehype-clipboard-prep-code
 
+## 1.0.1
+
+### Patch Changes
+
+- ff475ee: Updated Readme
+
 ## 1.0.0
 
 ### Major Changes
